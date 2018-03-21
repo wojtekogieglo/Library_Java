@@ -1,0 +1,6 @@
+*.class
+*.iml
+target
+Library/build/
+Library/nbproject/private/
+
